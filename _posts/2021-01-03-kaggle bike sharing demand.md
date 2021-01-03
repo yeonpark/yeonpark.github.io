@@ -22,4 +22,4 @@ Under Supervised Learning, we can further divide into:
 
 As we are predicting the demand for rental bikes for today's topic, regression is suitable to solve the problem.
 
-![SML Logic Diagram](./img/SML Logic Diagram.png)
+![SML Logic Diagram](/img/SML Logic Diagram.png)
