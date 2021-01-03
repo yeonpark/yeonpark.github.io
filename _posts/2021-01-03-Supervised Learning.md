@@ -30,7 +30,7 @@ In the evaluation step, we check the accuracy of the model that we've used and w
 ![Overfitting Underfitting Diagram](/img/Overfitting Underfitting Diagram.png){: width="100%" height="100%"}
 Origin: https://tensorflow.blog/
 
-Underfitting: Too simplified model is used therefore can't discover the features and diversity of the dataset.
+Underfitting: Too simplified model is used therefore can't discover the features and diversity of the dataset.  
 Overfitting: Too complexed model is made and inappropriate to generalize. Maybe due to outliers.
 
 
