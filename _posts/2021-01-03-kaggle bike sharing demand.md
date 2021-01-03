@@ -17,7 +17,7 @@ We can categorize Machine Learning into three parts:
 3. Reinforcement Learning (RL)
 
 ![SML Logic Diagram](/img/SML Logic Diagram.png){: width="100%" height="100%"}
-Origin: https://github.com/amueller/odscon-2015
+Origin: <https://github.com/amueller/odscon-2015>
 
 The main difference between SL and UL is whether there is labelled data or not.
 
