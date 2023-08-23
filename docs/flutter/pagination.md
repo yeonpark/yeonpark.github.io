@@ -22,14 +22,14 @@ nav_order: 1
     - Intended to take 4 for page 1, page 2 should be 5~8
         - Addition
             
-            ![Screenshot 2023-08-23 at 10.47.15 PM.png](Screenshot_2023-08-23_at_10.47.15_PM.png)
+            ![Screenshot 2023-08-23 at 10.47.15 PM.png](img/Screenshot_2023-08-23_at_10.47.15_PM.png)
             
         
         Added 0 after taking page 1, for page 2 it will skip 4 and take 4, so the result is 4~7
         
         - Deletion
         
-            ![Screenshot 2023-08-23 at 10.50.37 PM.png](Screenshot_2023-08-23_at_10.50.37_PM.png)
+            ![Screenshot 2023-08-23 at 10.50.37 PM.png](img/Screenshot_2023-08-23_at_10.50.37_PM.png)
         
     
     Delete 4 after page 1, for page 2 it will skip 1~5 and take 6~9 as the result, but initially intended 5~8
@@ -42,7 +42,7 @@ nav_order: 1
 - Retrieve new data with reference to latest retrieved data
 - When sending request, specify latest data’s reference value (Unique values like ID) and how many data to retrieve
 
-![Screenshot 2023-08-23 at 10.57.18 PM.png](Screenshot_2023-08-23_at_10.57.18_PM.png)
+![Screenshot 2023-08-23 at 10.57.18 PM.png](img/Screenshot_2023-08-23_at_10.57.18_PM.png)
 
 - Common used in scroll like list (E.g. ListView)
 - Low possibility of data omission or duplication as query is based on latest data’s reference value
